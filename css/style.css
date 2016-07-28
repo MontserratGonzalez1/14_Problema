@@ -1,0 +1,101 @@
+
+.fondo {
+	background-image: url(../img/banner.jpg)}
+
+.movie { margin-left: 5%; }
+
+
+.icono {
+width: 70px;
+height: 70px;
+margin: 350px 350px;
+}
+
+
+.margen { margin-top: 50px;
+		  margin-bottom: 50px; }
+
+.t { font-family: 'Roboto', sans-serif;}
+.t2 { color: #F4F6F6; }
+
+
+.barra {background-color: orange;
+height: 200px;}
+
+
+/* TAMAÑO DE PELIS DE BARRA NARANJA */
+.chica {
+	height: 150px;
+	width: 150px;
+	margin-top: 25px;
+	float: left;
+	margin-left: 30px;
+}
+
+/*.video-responsive { 			VIDEO -- info de internet
+width: 560%;
+height: 315%;
+} */
+
+hr { color:#F4F6F6 ;
+	margin-bottom: 25px;
+	margin-top: 10px;
+	}
+
+.tipo { font-family:Arial;}
+
+input { margin-top: 5%; }
+	
+		/* BOTON VERDE */	
+.verde { 
+border: 2px #5BEE0D solid;
+border-radius: 10%;
+padding: 2px;}
+
+.tverde { text-align: center;
+color: #5BEE0D;  }
+
+			/* TERMINA BOTON VERDE */
+
+.hr2 { color: gray;
+ 	margin-bottom: 20px;
+	margin-top: 20px;}
+
+
+	/* BOTONES AMARILLO Y NARANJA*/
+
+.ama { 
+border-radius: 20%;
+padding: 5px 5px 5px 5px;
+background-color:#FFC300;
+width: 160px;
+height: 50px;}
+
+.tama {
+color: white;  }
+
+.nar { 
+border-radius: 20%;
+padding: 5px 5px 5px 5px;
+background-color:#EE840D;
+width: 160px;
+height: 50px;}
+
+
+
+.lorem { color: black; }
+
+.l2 { font-size: 12px; } /*TEXTO LOREM */
+
+.t3 { font-size: 6px;} /* TEXTO MORE */
+
+/* TAMAÑO DE PELIS ULTIMAS */
+.chica2 {
+	height: 320px;
+	width: 250px;
+	float: left;
+	margin: 30px 40px 30px 40px;
+}
+
+.pie { background-color: #D5D8DC;
+		height: 230px;}
